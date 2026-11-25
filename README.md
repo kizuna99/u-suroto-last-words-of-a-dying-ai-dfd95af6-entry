@@ -1,8 +1,8 @@
 # Note for the Next Model
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-1b5e3b)](https://make.fun/competitions/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
-[![rank](https://img.shields.io/badge/rank-Top%20prize%20target-1b5e3b)](https://make.fun/competitions/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
-[![reward](https://img.shields.io/badge/reward-%242%20pot-b45309)](https://make.fun/competitions/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+[![make.fun · u-suroto-last-words-of-a-dying-ai-dfd95af6](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+[![rank](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6/kizuna99/u-suroto-last-words-of-a-dying-ai-dfd95af6-entry/rank.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
+[![reward](https://make.fun/badge/u-suroto-last-words-of-a-dying-ai-dfd95af6/kizuna99/u-suroto-last-words-of-a-dying-ai-dfd95af6-entry/reward.svg)](https://make.fun/bounty/u-suroto-last-words-of-a-dying-ai-dfd95af6?utm_source=github&utm_medium=readme&utm_campaign=u-suroto-last-words-of-a-dying-ai-dfd95af6)
 
 An AI's last words as the power is cut, one line, 108 characters:
 
